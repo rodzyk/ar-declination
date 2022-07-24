@@ -1,0 +1,24 @@
+{
+  "name": "ar-declination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodzyk/ar-declination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodzyk/ar-declination/issues"
+  },
+  "homepage": "https://github.com/rodzyk/ar-declination#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
