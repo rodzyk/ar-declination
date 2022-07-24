@@ -1,0 +1,1 @@
+import { Declination } from './declination';
